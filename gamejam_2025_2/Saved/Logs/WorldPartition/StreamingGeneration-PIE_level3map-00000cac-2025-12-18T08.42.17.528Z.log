@@ -1,0 +1,754 @@
+[+] Containers:
+ |- [+] Container: /Game/levels/level3map
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:007E9C7E44EC35A0D1A7A1B9CA454789 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1802112771 Label:wall117 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=250.000 Y=-250.000 Z=1100.000), Max=(X=350.000 Y=-150.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:01425F4A4A60D217415AE09E7DAFB4C5 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1802109768 Label:wall114 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=250.000 Y=50.000 Z=1100.000), Max=(X=350.000 Y=150.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:0224EA7244120DFE926572956D512413 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_106FD9A61A0EB2AC02_1768217607 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-340.000 Y=-890.000 Z=0.000), Max=(X=-340.000 Y=-890.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:040FB2C04C8DF2C30237BB924B2D2310 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1840194774 Label:wall119 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=250.000 Y=50.000 Z=1200.000), Max=(X=350.000 Y=150.000 Z=1300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:065B072E484B7556627886BCDE1CF450 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258569822 Label:wall60 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-150.000 Y=450.000 Z=1100.000), Max=(X=-50.000 Y=550.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:074AFE4C45B43DA613AD2DBB48146A4B BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258578833 Label:wall71 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-550.000 Y=350.000 Z=1100.000), Max=(X=-450.000 Y=450.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:07BF0AC34E8A5B0ADA3BBEBDE0864B6A BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1188975740 Label:wall90 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-250.000 Y=150.000 Z=0.000), Max=(X=-150.000 Y=250.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:0849665E44D70882F8702B952DF396BA BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1802105765 Label:wall111 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=350.000 Y=-350.000 Z=1100.000), Max=(X=450.000 Y=-250.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:08E78B9148850D1B76C59CA7DC821911 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA3AC02_2077741958 Label:wall120 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-350.000 Y=-450.000 Z=1200.000), Max=(X=-250.000 Y=-350.000 Z=1300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:09D7DE394516866118054CB09B2F2EAB BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1802111770 Label:wall116 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=250.000 Y=-150.000 Z=1100.000), Max=(X=350.000 Y=-50.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:0A683B2A47774599AFA2A69FDB914401 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1759831758 Label:wall104 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=250.000 Y=350.000 Z=1100.000), Max=(X=350.000 Y=450.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:0AE787C342F3ACDA8123B0BFFB19AD2E BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1653175310 Label:wall22 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-150.000 Y=450.000 Z=0.000), Max=(X=-50.000 Y=550.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:1258015840D0900AC44BC18AF688A1A8 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1800354324 Label:wall36 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=350.000 Y=-550.000 Z=0.000), Max=(X=450.000 Y=-450.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:13F40855406FD24AE437CF86ED09C563 BaseClass:/Game/Spiral_Seashell/BP_airbubble.BP_airbubble_C NativeClass:/Script/Engine.Actor Name:BP_airbubble_C_UAID_106FD9A61A0EA2AC02_1823006772 Label:BP_airbubble3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=365.000 Y=-435.000 Z=1300.000), Max=(X=435.000 Y=-365.000 Z=1370.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:14BBA53B45C80AEFE867E2A6D2A4C33F BaseClass:/Game/Light/BP_Light.BP_Light_C NativeClass:/Script/Engine.SpotLight Name:BP_Light_C_UAID_106FD9A61A0EB2AC02_1592548604 Label:BP_Light SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1633.315 Y=-1633.315 Z=-1392.793), Max=(X=1633.315 Y=1633.315 Z=1873.837) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:164A015C4636B6D45B41F29A96C84FB2 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258558810 Label:wall44 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-550.000 Y=250.000 Z=1100.000), Max=(X=-450.000 Y=350.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:17B2C30D4F2177CEB3BE8790E343E443 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258583839 Label:wall77 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=450.000 Y=350.000 Z=1100.000), Max=(X=550.000 Y=450.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:1C01E60C4DE3EA9B2C1BF2B89BCA7A7D BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258573827 Label:wall65 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-650.000 Y=-50.000 Z=1100.000), Max=(X=-550.000 Y=50.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:1E0B773F4CF1D654784228A6926CE682 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1802106766 Label:wall112 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=350.000 Y=-150.000 Z=1100.000), Max=(X=450.000 Y=-50.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2087E5D84A60D51E50DFD9842B8AF25A BaseClass:/Game/Spiral_Seashell/BP_airbubble.BP_airbubble_C NativeClass:/Script/Engine.Actor Name:BP_airbubble_C_UAID_106FD9A61A0EA2AC02_1244299744 Label:BP_airbubble2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=365.000 Y=-435.000 Z=0.000), Max=(X=435.000 Y=-365.000 Z=70.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:20D2AEDF4E608EDF21A216B9D3FA67D6 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1566468292 Label:wall7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=450.000 Y=-450.000 Z=0.000), Max=(X=550.000 Y=-350.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:21D647B446B4E702FA2347A6E7AA8EBC BaseClass:/Game/Spiral_Seashell/BP_airbubble.BP_airbubble_C NativeClass:/Script/Engine.Actor Name:BP_airbubble_C_UAID_106FD9A61A0EA3AC02_2108667959 Label:BP_airbubble4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-335.000 Y=-435.000 Z=1100.000), Max=(X=-265.000 Y=-365.000 Z=1170.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2244E595432C3935DB8A03989E214A45 BaseClass:/Game/Light/BP_Light.BP_Light_C NativeClass:/Script/Engine.SpotLight Name:BP_Light_C_UAID_106FD9A61A0EB2AC02_1660506605 Label:BP_Light2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1633.315 Y=-1633.315 Z=-522.793), Max=(X=1633.315 Y=1633.315 Z=2743.837) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:236A8E4C44A0B6A8F9C575BCCEA8712C BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1987430779 Label:wall124 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=350.000 Y=50.000 Z=0.000), Max=(X=450.000 Y=150.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2396E94349DA266CE057A88D9277CBE6 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1653178313 Label:wall25 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-350.000 Y=450.000 Z=0.000), Max=(X=-250.000 Y=550.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:24CBAB4D4C28EEA3CFDEEF9C5A9A993A BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258581837 Label:wall75 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-350.000 Y=450.000 Z=1100.000), Max=(X=-250.000 Y=550.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2597C6B2419EE0CB5E573A9A381A8392 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0E9EAC02_1817865942 Label:wall13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2500.000 Y=-2500.000 Z=-100.000), Max=(X=2500.000 Y=2500.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:283B2BD84E504B5213447E890987B755 BaseClass:/Game/Spiral_Seashell/BP_breakableWall.BP_breakableWall_C NativeClass:/Script/Engine.Actor Name:BP_breakableWall_C_UAID_106FD9A61A0EA2AC02_1611373746 Label:BP_breakableWall5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-450.000 Y=-48.165 Z=1156.606), Max=(X=-350.000 Y=48.165 Z=1282.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:29742383433B4F05725022AB38588BAB BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258564816 Label:wall54 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=450.000 Y=-150.000 Z=1100.000), Max=(X=550.000 Y=-50.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:29E5338D482CC815F031A5B8B9CB1AFE BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1744069756 Label:wall102 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-350.000 Y=-250.000 Z=1100.000), Max=(X=-250.000 Y=-150.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2A7D0AA845D785FA6BC85C8321C74096 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1604695299 Label:wall10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=450.000 Y=150.000 Z=0.000), Max=(X=550.000 Y=250.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2DCF095F43F94C00751007A3723A607F BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-440.000 Y=-440.000 Z=20.013), Max=(X=-360.000 Y=-360.000 Z=204.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2F9AD3564471A52662ED0CBA3E3791FE BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1631860301 Label:wall12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-550.000 Y=-150.000 Z=0.000), Max=(X=-450.000 Y=-50.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:312615894903ABF2FBC313BBBF8F72B3 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1720883751 Label:wall97 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-250.000 Y=150.000 Z=1100.000), Max=(X=-150.000 Y=250.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:32BAB67A4B2A53138CFC30AA4F32AE13 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1653177312 Label:wall24 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-250.000 Y=450.000 Z=0.000), Max=(X=-150.000 Y=550.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3432A7B7418ADB308C3D33AD6B50619F BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1556909291 Label:wall6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=450.000 Y=-350.000 Z=0.000), Max=(X=550.000 Y=-250.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:34906F144E30AF4FD3AC4E8D633D1CAA BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1730451753 Label:wall99 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-450.000 Y=150.000 Z=1100.000), Max=(X=-350.000 Y=250.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:359C76FD439D8E29F13F26BDA7B4FA24 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA1AC02_1565274520 Label:wall39 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2500.000 Y=-2500.000 Z=-100.000), Max=(X=2500.000 Y=2500.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3A2A91B3497918E8642105B0B54A6E43 BaseClass:/Game/Spiral_Seashell/BP_portal.BP_portal_C NativeClass:/Script/Engine.Actor Name:BP_portal_C_UAID_106FD9A61A0EA2AC02_1644501747 Label:BP_portal4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-332.000 Y=-50.000 Z=-15.000), Max=(X=-268.000 Y=50.000 Z=85.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3A7CC9B946168A64E2EDC394A4A55193 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1802110769 Label:wall115 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=250.000 Y=-350.000 Z=1100.000), Max=(X=350.000 Y=-250.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3D1DB7DE41F7058EB5DB7A8C98D3B22F BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1800356326 Label:wall38 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=150.000 Y=-550.000 Z=0.000), Max=(X=250.000 Y=-450.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3E52BCB64DB72FE0833747B5E12FC67A BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258559811 Label:wall11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=450.000 Y=-50.000 Z=1100.000), Max=(X=550.000 Y=50.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3F3DFFD2482ADB4F8EF66F8D823F01C8 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258567820 Label:wall58 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-450.000 Y=-550.000 Z=1100.000), Max=(X=-350.000 Y=-450.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:40061796484389AFE61BB2AB904EBA8B BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1780470761 Label:wall107 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=250.000 Y=-150.000 Z=0.000), Max=(X=350.000 Y=-50.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:41B079254EDD38006E9F46B48692CD70 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1193365741 Label:wall91 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-350.000 Y=150.000 Z=0.000), Max=(X=-250.000 Y=250.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:41BB93AD44586826DA41BCB89CDAE0D0 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1800351321 Label:wall33 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-250.000 Y=-550.000 Z=0.000), Max=(X=-150.000 Y=-450.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:42A3DE964097A0C73312EAB02D05111F BaseClass:/Game/Spiral_Seashell/BP_breakableWall.BP_breakableWall_C NativeClass:/Script/Engine.Actor Name:BP_breakableWall_C_UAID_106FD9A61A0EA3AC02_1928812957 Label:BP_breakableWall6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-450.000 Y=-48.165 Z=-43.394), Max=(X=-350.000 Y=48.165 Z=82.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:48B8662D4FBE809BC3936F89E2230218 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258579834 Label:wall72 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-550.000 Y=-350.000 Z=1100.000), Max=(X=-450.000 Y=-250.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:495FE01F406D3E0C64A7ABB086480258 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1800352322 Label:wall34 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-350.000 Y=-550.000 Z=0.000), Max=(X=-250.000 Y=-450.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:4B9220594613D7887BBE9CA526C9671D BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA1AC02_1188980514 Label:wall50 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-650.000 Y=-50.000 Z=0.000), Max=(X=-550.000 Y=50.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:4F58AC504C1D88420D83D9A317FA8861 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1780472762 Label:wall108 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=250.000 Y=-250.000 Z=0.000), Max=(X=350.000 Y=-150.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:53207B0F4916F2B641B8F9AE39CE828F BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258575829 Label:wall67 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=350.000 Y=450.000 Z=1100.000), Max=(X=450.000 Y=550.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:53738DA94E428BCE29A00DA6BCD95ED6 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1631860302 Label:wall14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-550.000 Y=50.000 Z=0.000), Max=(X=-450.000 Y=150.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:55D5249A493C8CFC16A12C8D1B2209FA BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1186040739 Label:wall89 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-250.000 Y=50.000 Z=0.000), Max=(X=-150.000 Y=150.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:56A9703A4FC6002D4E6238998988F766 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1196990742 Label:wall92 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-450.000 Y=150.000 Z=0.000), Max=(X=-350.000 Y=250.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:596C61574827EEB4EFA4E19B0E7B544B BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1715125750 Label:wall96 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-250.000 Y=50.000 Z=1100.000), Max=(X=-150.000 Y=150.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:5A4D665C4C023E7315E74C908E47F2BB BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1780473763 Label:wall109 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=250.000 Y=350.000 Z=1100.000), Max=(X=350.000 Y=450.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:5D7BBE7D401637B3F8889D8DAD62B688 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1653176311 Label:wall23 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=50.000 Y=450.000 Z=0.000), Max=(X=150.000 Y=550.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:5E22C54E47D12C3D43E496ABCE91BD72 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_UAID_106FD9A61A0EB2AC02_1706593606 Label:PostProcessVolume SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3900.000 Y=-2500.000 Z=-1375.000), Max=(X=3900.000 Y=2500.000 Z=3775.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:5F15A46C4E0D7F13B0FDBAB5381FA9DA BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258565817 Label:wall55 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-550.000 Y=-250.000 Z=1100.000), Max=(X=-450.000 Y=-150.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:5FBCBA354BD52B00D57BA09560648A7C BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1986399330 Label:wall42 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=350.000 Y=-350.000 Z=0.000), Max=(X=450.000 Y=-250.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:6111A7C24E0ACD0CC627F2A05DC8EDCD BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1976616778 Label:wall123 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=250.000 Y=-50.000 Z=1100.000), Max=(X=350.000 Y=50.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:63D53F094FF3034DF8E0138DA46923FA BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1604694298 Label:wall9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=450.000 Y=250.000 Z=0.000), Max=(X=550.000 Y=350.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:657C25DD4839F6CB560A5885C91C371E BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1747169757 Label:wall103 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-450.000 Y=-250.000 Z=1100.000), Max=(X=-350.000 Y=-150.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:65F4E78C4B28D2D2BC14E896516128AE BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1987432780 Label:wall125 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=250.000 Y=50.000 Z=0.000), Max=(X=350.000 Y=150.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:68B2BC074A969A6DF470CC8D735E566A BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258563815 Label:wall53 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=250.000 Y=450.000 Z=1100.000), Max=(X=350.000 Y=550.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:6A194CAA4BC17EBB87781A8700A07678 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1700254749 Label:wall95 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-350.000 Y=-50.000 Z=1100.000), Max=(X=-250.000 Y=50.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:6A1CFB0142E68A88C16B16AF535556A5 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258560812 Label:wall47 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-450.000 Y=450.000 Z=1100.000), Max=(X=-350.000 Y=550.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:6A8C4BB84148C4F4E770DEBB0189418A BaseClass:/Game/Spiral_Seashell/BP_breakableWall.BP_breakableWall_C NativeClass:/Script/Engine.Actor Name:BP_breakableWall_C_UAID_106FD9A61A0E95AC02_1677803353 Label:BP_breakableWall SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=700.000 Y=2001.835 Z=-43.394), Max=(X=800.000 Y=2098.165 Z=82.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:6A915B484F8E0B8C53CA08B77A5FB883 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1653180315 Label:wall27 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=350.000 Y=450.000 Z=0.000), Max=(X=450.000 Y=550.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:6ABBA1214D9509C1C1B4A1BE31D5E572 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1631864306 Label:wall18 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-550.000 Y=350.000 Z=0.000), Max=(X=-450.000 Y=450.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:6C9C9ECD46F3543331DF7586D06A5E3F BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_2012984331 Label:wall43 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=350.000 Y=-150.000 Z=0.000), Max=(X=450.000 Y=-50.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:70C64CF14ED62D1B0F5552AE7F6090B2 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1800355325 Label:wall37 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=250.000 Y=-550.000 Z=0.000), Max=(X=350.000 Y=-450.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7109FA1D414966D85FEFAAB91A2E71BB BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258566818 Label:wall56 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-250.000 Y=-550.000 Z=1100.000), Max=(X=-150.000 Y=-450.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:71917B7D47B5A417078A89843E6492D4 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1631861303 Label:wall15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-550.000 Y=-250.000 Z=0.000), Max=(X=-450.000 Y=-150.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:721863814D9ED60803104FB8747E7974 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258574828 Label:wall66 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-550.000 Y=150.000 Z=1100.000), Max=(X=-450.000 Y=250.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7502842942711A829E2EA88A7DFA6ABA BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1556907290 Label:wall5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=450.000 Y=-250.000 Z=0.000), Max=(X=550.000 Y=-150.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:773E8DF842B02496071E2CBA6F3C6AEE BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258584840 Label:wall78 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-550.000 Y=-150.000 Z=1100.000), Max=(X=-450.000 Y=-50.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:77404C3A410D66B87F5C9C8231406DC4 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258571824 Label:wall62 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=150.000 Y=450.000 Z=1100.000), Max=(X=250.000 Y=550.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:784B3E864CFBAA3348A241A622B29F49 BaseClass:/Game/Spiral_Seashell/BP_portal.BP_portal_C NativeClass:/Script/Engine.Actor Name:BP_portal_C_UAID_106FD9A61A0E97AC02_1895698707 Label:BP_portal SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=368.000 Y=350.000 Z=-15.000), Max=(X=432.000 Y=450.000 Z=85.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7902E6F3451E5BE491E5EC9CC6B58ADF BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1802107767 Label:wall113 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=350.000 Y=-250.000 Z=1100.000), Max=(X=450.000 Y=-150.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7BA6ECFE4DBC85A30A90BC95BB6A1302 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1604692297 Label:wall8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=450.000 Y=350.000 Z=0.000), Max=(X=550.000 Y=450.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7CBE05514972D551167234875F3975E0 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_2035471334 Label:wall46 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-350.000 Y=-450.000 Z=0.000), Max=(X=-250.000 Y=-350.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7E4F72AC4173C8C0F3E188AF3B29E532 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258572826 Label:wall64 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-350.000 Y=-550.000 Z=1100.000), Max=(X=-250.000 Y=-450.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:81A6DF704FA881051C7074B6D5F8403F BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258575830 Label:wall68 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-550.000 Y=50.000 Z=1100.000), Max=(X=-450.000 Y=150.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:8298D537486813D10C1CB5B5F5212C50 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1780467759 Label:wall105 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=250.000 Y=-50.000 Z=0.000), Max=(X=350.000 Y=50.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:8A1A63324005D77D39AA1B9173C391BF BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258582838 Label:wall76 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=450.000 Y=-250.000 Z=1100.000), Max=(X=550.000 Y=-150.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:8CEE466D42B635B57EEF898BE94FEBC3 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258580835 Label:wall73 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=450.000 Y=150.000 Z=1100.000), Max=(X=550.000 Y=250.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:90C23A1A4F4DA8AF7E212093FB138C6C BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1840192773 Label:wall118 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=350.000 Y=50.000 Z=1200.000), Max=(X=450.000 Y=150.000 Z=1300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:91B3D09E43638312E044008109CD11BC BaseClass:/Game/Light/BP_Fog.BP_Fog_C NativeClass:/Script/Engine.Actor Name:BP_Fog_C_UAID_106FD9A61A0EB2AC02_1589830596 Label:BP_Fog SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-200.000 Y=140.000 Z=1200.000), Max=(X=-200.000 Y=140.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:9257FCFA46FB48B63775BAB5729DE896 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA1AC02_1633995521 Label:wall40 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2500.000 Y=-2500.000 Z=1000.000), Max=(X=2500.000 Y=2500.000 Z=1100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:93D0B67E436F324E90CBFEA3BDFCC425 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258555809 Label:wall41 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-50.000 Y=-550.000 Z=1100.000), Max=(X=50.000 Y=-450.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:959E2A9E40172B513E51B0AF567F1C0B BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258561813 Label:wall48 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=50.000 Y=-550.000 Z=1100.000), Max=(X=150.000 Y=-450.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:96DBCF4F4E494908C2EF89BC8A045B86 BaseClass: NativeClass:/Script/Engine.CameraActor Name:CameraActor_UAID_106FD9A61A0E7AAC02_1777086599 Label:CameraActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=500.000), Max=(X=0.000 Y=0.000 Z=500.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:9893068E4F05AEAED5C5A58B0D581878 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1802103764 Label:wall110 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=350.000 Y=50.000 Z=1100.000), Max=(X=450.000 Y=150.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:98B825EC4197F60800C6D1A5A59D92EF BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA1AC02_1339232515 Label:wall51 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=350.000 Y=-50.000 Z=0.000), Max=(X=450.000 Y=50.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:9A8C82B04CE57CEB2414FA96C32C188C BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258577832 Label:wall70 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-50.000 Y=450.000 Z=1100.000), Max=(X=50.000 Y=550.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:9B9E33AA4782E68985A346AF4FF23308 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258572825 Label:wall63 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=350.000 Y=-550.000 Z=1100.000), Max=(X=450.000 Y=-450.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:9FCAA32D482958DE4C38F5BC1CA2A52A BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258587844 Label:wall82 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-250.000 Y=450.000 Z=1100.000), Max=(X=-150.000 Y=550.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A5D7A6CB4A8207CE3BE04480F1907892 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258570823 Label:wall61 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=450.000 Y=50.000 Z=1100.000), Max=(X=550.000 Y=150.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A6DE7FB347145AA58A0A3F9B47F0CA9D BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1223774743 Label:wall93 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=350.000 Y=-250.000 Z=0.000), Max=(X=450.000 Y=-150.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A7790D6B417AF701BA8D58BC272A041F BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1680563748 Label:wall94 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-250.000 Y=-50.000 Z=1100.000), Max=(X=-150.000 Y=50.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:AB1893A340AD67849052868F7DA5895C BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1631863305 Label:wall17 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-550.000 Y=-450.000 Z=0.000), Max=(X=-450.000 Y=-350.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B5637EDA4759741DD81DB6B57DD74D50 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA1AC02_1879815559 Label:wall85 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-450.000 Y=-250.000 Z=0.000), Max=(X=-350.000 Y=-150.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:BB33F562477304660C0C3AAE5B57F276 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1653174309 Label:wall21 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-50.000 Y=450.000 Z=0.000), Max=(X=50.000 Y=550.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:BC56313A461BDD6B8B3B8E9369D0E591 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1179977738 Label:wall88 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-250.000 Y=-50.000 Z=0.000), Max=(X=-150.000 Y=50.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:BEF9913E4DD6E9539F63C89227B847A2 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1800348318 Label:wall30 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-50.000 Y=-550.000 Z=0.000), Max=(X=50.000 Y=-450.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C04AAD4345BDABD9E292DDB875B12BFD BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1421014287 Label:wall3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=450.000 Y=-150.000 Z=0.000), Max=(X=550.000 Y=-50.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C0A52B144846DE027DF07DB876442496 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1653181316 Label:wall28 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=250.000 Y=450.000 Z=0.000), Max=(X=350.000 Y=550.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C18408E849A0B0A36F694E934C54108E BaseClass:/Game/Spiral_Seashell/BP_portal.BP_portal_C NativeClass:/Script/Engine.Actor Name:BP_portal_C_UAID_106FD9A61A0E97AC02_1905676708 Label:BP_portal2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-332.000 Y=-50.000 Z=1185.000), Max=(X=-268.000 Y=50.000 Z=1285.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C233507A479264DBD4760B8067FDAA67 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA1AC02_1339235516 Label:wall52 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=250.000 Y=350.000 Z=0.000), Max=(X=350.000 Y=450.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C2BC744C48FCEE4D5C27B3A36F11BD7E BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1631865308 Label:wall20 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-550.000 Y=150.000 Z=0.000), Max=(X=-450.000 Y=250.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C2D25F2E404994A251F709B038DE9E3B BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1800353323 Label:wall35 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-450.000 Y=-550.000 Z=0.000), Max=(X=-350.000 Y=-450.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C36F691D44E5457FE017928A3AA8DAC3 BaseClass:/Game/Spiral_Seashell/BP_portal.BP_portal_C NativeClass:/Script/Engine.Actor Name:BP_portal_C_UAID_106FD9A61A0EA2AC02_1482822745 Label:BP_portal3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=368.000 Y=350.000 Z=1085.000), Max=(X=432.000 Y=450.000 Z=1185.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C47B47F4474379A9F899C4A57F782121 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1800351320 Label:wall32 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=50.000 Y=-550.000 Z=0.000), Max=(X=150.000 Y=-450.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C4EEF02C4B863F980A3B91A1220249E5 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1737352754 Label:wall100 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-250.000 Y=-150.000 Z=1100.000), Max=(X=-150.000 Y=-50.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C66C76DE429F47651F001A929F692E77 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1976615777 Label:wall122 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=350.000 Y=-50.000 Z=1100.000), Max=(X=450.000 Y=50.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C68F4110417B2F81631EC7BFAD9C24DA BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1726835752 Label:wall98 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-350.000 Y=150.000 Z=1100.000), Max=(X=-250.000 Y=250.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C8B9077240E2B45E1E4519841AD0D620 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1631862304 Label:wall16 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-550.000 Y=-350.000 Z=0.000), Max=(X=-450.000 Y=-250.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:CAEB25484270F8F4797E1AA8817D2B1E BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258585842 Label:wall80 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=250.000 Y=-550.000 Z=1100.000), Max=(X=350.000 Y=-450.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:CC14C3AB4F7143BED9DD1A8AF0FC3401 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1780469760 Label:wall106 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=250.000 Y=-350.000 Z=0.000), Max=(X=350.000 Y=-250.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:CC1FFB844E4107E7CED3E3B1467127D3 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258567819 Label:wall57 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=450.000 Y=-350.000 Z=1100.000), Max=(X=550.000 Y=-250.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:CF46F9B84DBAFF1913CFC190A40DEB6E BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1177142737 Label:wall87 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-250.000 Y=-150.000 Z=0.000), Max=(X=-150.000 Y=-50.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D6F6220D49B7695CEDA3A3AB935883B3 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258562814 Label:wall49 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=150.000 Y=-550.000 Z=1100.000), Max=(X=250.000 Y=-450.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D8C54CEC463AB40CA25649AF00548391 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1800350319 Label:wall31 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-150.000 Y=-550.000 Z=0.000), Max=(X=-50.000 Y=-450.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:DBF1817744E53B5FB681E0B9AA8E8D6B BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258580836 Label:wall74 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-150.000 Y=-550.000 Z=1100.000), Max=(X=-50.000 Y=-450.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E156319146C11D886B9BCAB221EF3CBF BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1653182317 Label:wall29 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=150.000 Y=450.000 Z=0.000), Max=(X=250.000 Y=550.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E1B45B1B40CA220E0DB65489EFC23D9F BaseClass:/Game/Spiral_Seashell/BP_breakableWall.BP_breakableWall_C NativeClass:/Script/Engine.Actor Name:BP_breakableWall_C_UAID_106FD9A61A0E9CAC02_1723775587 Label:BP_breakableWall3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=900.000 Y=2001.835 Z=-43.394), Max=(X=1000.000 Y=2098.165 Z=82.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E630217C41A2E46180A644A08C508078 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_2031246333 Label:wall45 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-350.000 Y=-250.000 Z=0.000), Max=(X=-250.000 Y=-150.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E9A80FBB479F9081D5E1E9989E073DFB BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258576831 Label:wall69 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=450.000 Y=-450.000 Z=1100.000), Max=(X=550.000 Y=-350.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:EDD1CF66478007CB11D9E4B3B2849C88 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0E7AAC02_1829565601 Label:wall2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=450.000 Y=-50.000 Z=0.000), Max=(X=550.000 Y=50.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F2AF81714A345529C4A753B8C9AD0646 BaseClass:/Game/Spiral_Seashell/BP_breakableWall.BP_breakableWall_C NativeClass:/Script/Engine.Actor Name:BP_breakableWall_C_UAID_106FD9A61A0EA1AC02_1426274519 Label:BP_breakableWall4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-450.000 Y=-48.165 Z=1056.606), Max=(X=-350.000 Y=48.165 Z=1182.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F5A29A1E4FB67AAB0B77C38B96655769 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1631865307 Label:wall19 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-550.000 Y=250.000 Z=0.000), Max=(X=-450.000 Y=350.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F6CD06B54DF9F88D149899B39AE0B0A8 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258568821 Label:wall59 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=50.000 Y=450.000 Z=1100.000), Max=(X=150.000 Y=550.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F70B6DAB4D61B13BC8976DA7A94BC20D BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1167850736 Label:wall86 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-250.000 Y=-250.000 Z=0.000), Max=(X=-150.000 Y=-150.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F90BCCF443BFB5EED8BBF4A87331C9DE BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1653179314 Label:wall26 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-450.000 Y=450.000 Z=0.000), Max=(X=-350.000 Y=550.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F987E4D04510E893EE296B8E6EBD2702 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1543047289 Label:wall4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=450.000 Y=50.000 Z=0.000), Max=(X=550.000 Y=150.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:FBDC4A614ADBD32659BCED8310F2574D BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:FD814C9F498854A08C03CBA4FCF1F919 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258585841 Label:wall79 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=450.000 Y=250.000 Z=1100.000), Max=(X=550.000 Y=350.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:FEAA1EE747D2ED805F053C8D4142B68C BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1740606755 Label:wall101 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-250.000 Y=-250.000 Z=1100.000), Max=(X=-150.000 Y=-150.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:FFEEF92A4A166D09ABD054A157E3B3BA BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258586843 Label:wall81 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-550.000 Y=-450.000 Z=1100.000), Max=(X=-450.000 Y=-350.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:007E9C7E44EC35A0D1A7A1B9CA454789 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1802112771 Label:wall117 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=250.000 Y=-250.000 Z=1100.000), Max=(X=350.000 Y=-150.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:01425F4A4A60D217415AE09E7DAFB4C5 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1802109768 Label:wall114 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=250.000 Y=50.000 Z=1100.000), Max=(X=350.000 Y=150.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:0224EA7244120DFE926572956D512413 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_106FD9A61A0EB2AC02_1768217607 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-340.000 Y=-890.000 Z=0.000), Max=(X=-340.000 Y=-890.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:040FB2C04C8DF2C30237BB924B2D2310 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1840194774 Label:wall119 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=250.000 Y=50.000 Z=1200.000), Max=(X=350.000 Y=150.000 Z=1300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:065B072E484B7556627886BCDE1CF450 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258569822 Label:wall60 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-150.000 Y=450.000 Z=1100.000), Max=(X=-50.000 Y=550.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:074AFE4C45B43DA613AD2DBB48146A4B BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258578833 Label:wall71 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-550.000 Y=350.000 Z=1100.000), Max=(X=-450.000 Y=450.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:07BF0AC34E8A5B0ADA3BBEBDE0864B6A BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1188975740 Label:wall90 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-250.000 Y=150.000 Z=0.000), Max=(X=-150.000 Y=250.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:0849665E44D70882F8702B952DF396BA BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1802105765 Label:wall111 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=350.000 Y=-350.000 Z=1100.000), Max=(X=450.000 Y=-250.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:08E78B9148850D1B76C59CA7DC821911 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA3AC02_2077741958 Label:wall120 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-350.000 Y=-450.000 Z=1200.000), Max=(X=-250.000 Y=-350.000 Z=1300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:09D7DE394516866118054CB09B2F2EAB BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1802111770 Label:wall116 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=250.000 Y=-150.000 Z=1100.000), Max=(X=350.000 Y=-50.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:0A683B2A47774599AFA2A69FDB914401 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1759831758 Label:wall104 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=250.000 Y=350.000 Z=1100.000), Max=(X=350.000 Y=450.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:0AE787C342F3ACDA8123B0BFFB19AD2E BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1653175310 Label:wall22 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-150.000 Y=450.000 Z=0.000), Max=(X=-50.000 Y=550.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:1258015840D0900AC44BC18AF688A1A8 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1800354324 Label:wall36 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=350.000 Y=-550.000 Z=0.000), Max=(X=450.000 Y=-450.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:13F40855406FD24AE437CF86ED09C563 BaseClass:/Game/Spiral_Seashell/BP_airbubble.BP_airbubble_C NativeClass:/Script/Engine.Actor Name:BP_airbubble_C_UAID_106FD9A61A0EA2AC02_1823006772 Label:BP_airbubble3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=365.000 Y=-435.000 Z=1300.000), Max=(X=435.000 Y=-365.000 Z=1370.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:14BBA53B45C80AEFE867E2A6D2A4C33F BaseClass:/Game/Light/BP_Light.BP_Light_C NativeClass:/Script/Engine.SpotLight Name:BP_Light_C_UAID_106FD9A61A0EB2AC02_1592548604 Label:BP_Light SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1633.315 Y=-1633.315 Z=-1392.793), Max=(X=1633.315 Y=1633.315 Z=1873.837) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:164A015C4636B6D45B41F29A96C84FB2 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258558810 Label:wall44 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-550.000 Y=250.000 Z=1100.000), Max=(X=-450.000 Y=350.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:17B2C30D4F2177CEB3BE8790E343E443 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258583839 Label:wall77 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=450.000 Y=350.000 Z=1100.000), Max=(X=550.000 Y=450.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:1C01E60C4DE3EA9B2C1BF2B89BCA7A7D BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258573827 Label:wall65 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-650.000 Y=-50.000 Z=1100.000), Max=(X=-550.000 Y=50.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:1E0B773F4CF1D654784228A6926CE682 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1802106766 Label:wall112 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=350.000 Y=-150.000 Z=1100.000), Max=(X=450.000 Y=-50.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:2087E5D84A60D51E50DFD9842B8AF25A BaseClass:/Game/Spiral_Seashell/BP_airbubble.BP_airbubble_C NativeClass:/Script/Engine.Actor Name:BP_airbubble_C_UAID_106FD9A61A0EA2AC02_1244299744 Label:BP_airbubble2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=365.000 Y=-435.000 Z=0.000), Max=(X=435.000 Y=-365.000 Z=70.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:20D2AEDF4E608EDF21A216B9D3FA67D6 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1566468292 Label:wall7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=450.000 Y=-450.000 Z=0.000), Max=(X=550.000 Y=-350.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:21D647B446B4E702FA2347A6E7AA8EBC BaseClass:/Game/Spiral_Seashell/BP_airbubble.BP_airbubble_C NativeClass:/Script/Engine.Actor Name:BP_airbubble_C_UAID_106FD9A61A0EA3AC02_2108667959 Label:BP_airbubble4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-335.000 Y=-435.000 Z=1100.000), Max=(X=-265.000 Y=-365.000 Z=1170.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:2244E595432C3935DB8A03989E214A45 BaseClass:/Game/Light/BP_Light.BP_Light_C NativeClass:/Script/Engine.SpotLight Name:BP_Light_C_UAID_106FD9A61A0EB2AC02_1660506605 Label:BP_Light2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1633.315 Y=-1633.315 Z=-522.793), Max=(X=1633.315 Y=1633.315 Z=2743.837) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:236A8E4C44A0B6A8F9C575BCCEA8712C BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1987430779 Label:wall124 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=350.000 Y=50.000 Z=0.000), Max=(X=450.000 Y=150.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 24]
+ |   |   |   |- Guid:2396E94349DA266CE057A88D9277CBE6 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1653178313 Label:wall25 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-350.000 Y=450.000 Z=0.000), Max=(X=-250.000 Y=550.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 25]
+ |   |   |   |- Guid:24CBAB4D4C28EEA3CFDEEF9C5A9A993A BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258581837 Label:wall75 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-350.000 Y=450.000 Z=1100.000), Max=(X=-250.000 Y=550.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 26]
+ |   |   |   |- Guid:2597C6B2419EE0CB5E573A9A381A8392 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0E9EAC02_1817865942 Label:wall13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2500.000 Y=-2500.000 Z=-100.000), Max=(X=2500.000 Y=2500.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 27]
+ |   |   |   |- Guid:283B2BD84E504B5213447E890987B755 BaseClass:/Game/Spiral_Seashell/BP_breakableWall.BP_breakableWall_C NativeClass:/Script/Engine.Actor Name:BP_breakableWall_C_UAID_106FD9A61A0EA2AC02_1611373746 Label:BP_breakableWall5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-450.000 Y=-48.165 Z=1156.606), Max=(X=-350.000 Y=48.165 Z=1282.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 28]
+ |   |   |   |- Guid:29742383433B4F05725022AB38588BAB BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258564816 Label:wall54 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=450.000 Y=-150.000 Z=1100.000), Max=(X=550.000 Y=-50.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 29]
+ |   |   |   |- Guid:29E5338D482CC815F031A5B8B9CB1AFE BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1744069756 Label:wall102 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-350.000 Y=-250.000 Z=1100.000), Max=(X=-250.000 Y=-150.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 30]
+ |   |   |   |- Guid:2A7D0AA845D785FA6BC85C8321C74096 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1604695299 Label:wall10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=450.000 Y=150.000 Z=0.000), Max=(X=550.000 Y=250.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 31]
+ |   |   |   |- Guid:2DCF095F43F94C00751007A3723A607F BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-440.000 Y=-440.000 Z=20.013), Max=(X=-360.000 Y=-360.000 Z=204.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 32]
+ |   |   |   |- Guid:2F9AD3564471A52662ED0CBA3E3791FE BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1631860301 Label:wall12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-550.000 Y=-150.000 Z=0.000), Max=(X=-450.000 Y=-50.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 33]
+ |   |   |   |- Guid:312615894903ABF2FBC313BBBF8F72B3 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1720883751 Label:wall97 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-250.000 Y=150.000 Z=1100.000), Max=(X=-150.000 Y=250.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 34]
+ |   |   |   |- Guid:32BAB67A4B2A53138CFC30AA4F32AE13 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1653177312 Label:wall24 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-250.000 Y=450.000 Z=0.000), Max=(X=-150.000 Y=550.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 35]
+ |   |   |   |- Guid:3432A7B7418ADB308C3D33AD6B50619F BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1556909291 Label:wall6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=450.000 Y=-350.000 Z=0.000), Max=(X=550.000 Y=-250.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 36]
+ |   |   |   |- Guid:34906F144E30AF4FD3AC4E8D633D1CAA BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1730451753 Label:wall99 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-450.000 Y=150.000 Z=1100.000), Max=(X=-350.000 Y=250.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 37]
+ |   |   |   |- Guid:359C76FD439D8E29F13F26BDA7B4FA24 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA1AC02_1565274520 Label:wall39 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2500.000 Y=-2500.000 Z=-100.000), Max=(X=2500.000 Y=2500.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 38]
+ |   |   |   |- Guid:3A2A91B3497918E8642105B0B54A6E43 BaseClass:/Game/Spiral_Seashell/BP_portal.BP_portal_C NativeClass:/Script/Engine.Actor Name:BP_portal_C_UAID_106FD9A61A0EA2AC02_1644501747 Label:BP_portal4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-332.000 Y=-50.000 Z=-15.000), Max=(X=-268.000 Y=50.000 Z=85.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 39]
+ |   |   |   |- Guid:3A7CC9B946168A64E2EDC394A4A55193 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1802110769 Label:wall115 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=250.000 Y=-350.000 Z=1100.000), Max=(X=350.000 Y=-250.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 40]
+ |   |   |   |- Guid:3D1DB7DE41F7058EB5DB7A8C98D3B22F BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1800356326 Label:wall38 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=150.000 Y=-550.000 Z=0.000), Max=(X=250.000 Y=-450.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 41]
+ |   |   |   |- Guid:3E52BCB64DB72FE0833747B5E12FC67A BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258559811 Label:wall11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=450.000 Y=-50.000 Z=1100.000), Max=(X=550.000 Y=50.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 42]
+ |   |   |   |- Guid:3F3DFFD2482ADB4F8EF66F8D823F01C8 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258567820 Label:wall58 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-450.000 Y=-550.000 Z=1100.000), Max=(X=-350.000 Y=-450.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 43]
+ |   |   |   |- Guid:40061796484389AFE61BB2AB904EBA8B BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1780470761 Label:wall107 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=250.000 Y=-150.000 Z=0.000), Max=(X=350.000 Y=-50.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 44]
+ |   |   |   |- Guid:41B079254EDD38006E9F46B48692CD70 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1193365741 Label:wall91 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-350.000 Y=150.000 Z=0.000), Max=(X=-250.000 Y=250.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 45]
+ |   |   |   |- Guid:41BB93AD44586826DA41BCB89CDAE0D0 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1800351321 Label:wall33 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-250.000 Y=-550.000 Z=0.000), Max=(X=-150.000 Y=-450.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 46]
+ |   |   |   |- Guid:42A3DE964097A0C73312EAB02D05111F BaseClass:/Game/Spiral_Seashell/BP_breakableWall.BP_breakableWall_C NativeClass:/Script/Engine.Actor Name:BP_breakableWall_C_UAID_106FD9A61A0EA3AC02_1928812957 Label:BP_breakableWall6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-450.000 Y=-48.165 Z=-43.394), Max=(X=-350.000 Y=48.165 Z=82.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 47]
+ |   |   |   |- Guid:48B8662D4FBE809BC3936F89E2230218 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258579834 Label:wall72 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-550.000 Y=-350.000 Z=1100.000), Max=(X=-450.000 Y=-250.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 48]
+ |   |   |   |- Guid:495FE01F406D3E0C64A7ABB086480258 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1800352322 Label:wall34 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-350.000 Y=-550.000 Z=0.000), Max=(X=-250.000 Y=-450.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 49]
+ |   |   |   |- Guid:4B9220594613D7887BBE9CA526C9671D BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA1AC02_1188980514 Label:wall50 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-650.000 Y=-50.000 Z=0.000), Max=(X=-550.000 Y=50.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 50]
+ |   |   |   |- Guid:4F58AC504C1D88420D83D9A317FA8861 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1780472762 Label:wall108 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=250.000 Y=-250.000 Z=0.000), Max=(X=350.000 Y=-150.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 51]
+ |   |   |   |- Guid:53207B0F4916F2B641B8F9AE39CE828F BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258575829 Label:wall67 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=350.000 Y=450.000 Z=1100.000), Max=(X=450.000 Y=550.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 52]
+ |   |   |   |- Guid:53738DA94E428BCE29A00DA6BCD95ED6 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1631860302 Label:wall14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-550.000 Y=50.000 Z=0.000), Max=(X=-450.000 Y=150.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 53]
+ |   |   |   |- Guid:55D5249A493C8CFC16A12C8D1B2209FA BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1186040739 Label:wall89 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-250.000 Y=50.000 Z=0.000), Max=(X=-150.000 Y=150.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 54]
+ |   |   |   |- Guid:56A9703A4FC6002D4E6238998988F766 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1196990742 Label:wall92 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-450.000 Y=150.000 Z=0.000), Max=(X=-350.000 Y=250.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 55]
+ |   |   |   |- Guid:596C61574827EEB4EFA4E19B0E7B544B BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1715125750 Label:wall96 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-250.000 Y=50.000 Z=1100.000), Max=(X=-150.000 Y=150.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 56]
+ |   |   |   |- Guid:5A4D665C4C023E7315E74C908E47F2BB BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1780473763 Label:wall109 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=250.000 Y=350.000 Z=1100.000), Max=(X=350.000 Y=450.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 57]
+ |   |   |   |- Guid:5D7BBE7D401637B3F8889D8DAD62B688 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1653176311 Label:wall23 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=50.000 Y=450.000 Z=0.000), Max=(X=150.000 Y=550.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 58]
+ |   |   |   |- Guid:5E22C54E47D12C3D43E496ABCE91BD72 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_UAID_106FD9A61A0EB2AC02_1706593606 Label:PostProcessVolume SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3900.000 Y=-2500.000 Z=-1375.000), Max=(X=3900.000 Y=2500.000 Z=3775.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 59]
+ |   |   |   |- Guid:5F15A46C4E0D7F13B0FDBAB5381FA9DA BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258565817 Label:wall55 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-550.000 Y=-250.000 Z=1100.000), Max=(X=-450.000 Y=-150.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 60]
+ |   |   |   |- Guid:5FBCBA354BD52B00D57BA09560648A7C BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1986399330 Label:wall42 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=350.000 Y=-350.000 Z=0.000), Max=(X=450.000 Y=-250.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 61]
+ |   |   |   |- Guid:6111A7C24E0ACD0CC627F2A05DC8EDCD BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1976616778 Label:wall123 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=250.000 Y=-50.000 Z=1100.000), Max=(X=350.000 Y=50.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 62]
+ |   |   |   |- Guid:63D53F094FF3034DF8E0138DA46923FA BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1604694298 Label:wall9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=450.000 Y=250.000 Z=0.000), Max=(X=550.000 Y=350.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 63]
+ |   |   |   |- Guid:657C25DD4839F6CB560A5885C91C371E BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1747169757 Label:wall103 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-450.000 Y=-250.000 Z=1100.000), Max=(X=-350.000 Y=-150.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 64]
+ |   |   |   |- Guid:65F4E78C4B28D2D2BC14E896516128AE BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1987432780 Label:wall125 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=250.000 Y=50.000 Z=0.000), Max=(X=350.000 Y=150.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 65]
+ |   |   |   |- Guid:68B2BC074A969A6DF470CC8D735E566A BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258563815 Label:wall53 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=250.000 Y=450.000 Z=1100.000), Max=(X=350.000 Y=550.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 66]
+ |   |   |   |- Guid:6A194CAA4BC17EBB87781A8700A07678 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1700254749 Label:wall95 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-350.000 Y=-50.000 Z=1100.000), Max=(X=-250.000 Y=50.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 67]
+ |   |   |   |- Guid:6A1CFB0142E68A88C16B16AF535556A5 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258560812 Label:wall47 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-450.000 Y=450.000 Z=1100.000), Max=(X=-350.000 Y=550.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 68]
+ |   |   |   |- Guid:6A8C4BB84148C4F4E770DEBB0189418A BaseClass:/Game/Spiral_Seashell/BP_breakableWall.BP_breakableWall_C NativeClass:/Script/Engine.Actor Name:BP_breakableWall_C_UAID_106FD9A61A0E95AC02_1677803353 Label:BP_breakableWall SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=700.000 Y=2001.835 Z=-43.394), Max=(X=800.000 Y=2098.165 Z=82.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 69]
+ |   |   |   |- Guid:6A915B484F8E0B8C53CA08B77A5FB883 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1653180315 Label:wall27 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=350.000 Y=450.000 Z=0.000), Max=(X=450.000 Y=550.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 70]
+ |   |   |   |- Guid:6ABBA1214D9509C1C1B4A1BE31D5E572 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1631864306 Label:wall18 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-550.000 Y=350.000 Z=0.000), Max=(X=-450.000 Y=450.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 71]
+ |   |   |   |- Guid:6C9C9ECD46F3543331DF7586D06A5E3F BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_2012984331 Label:wall43 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=350.000 Y=-150.000 Z=0.000), Max=(X=450.000 Y=-50.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 72]
+ |   |   |   |- Guid:70C64CF14ED62D1B0F5552AE7F6090B2 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1800355325 Label:wall37 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=250.000 Y=-550.000 Z=0.000), Max=(X=350.000 Y=-450.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 73]
+ |   |   |   |- Guid:7109FA1D414966D85FEFAAB91A2E71BB BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258566818 Label:wall56 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-250.000 Y=-550.000 Z=1100.000), Max=(X=-150.000 Y=-450.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 74]
+ |   |   |   |- Guid:71917B7D47B5A417078A89843E6492D4 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1631861303 Label:wall15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-550.000 Y=-250.000 Z=0.000), Max=(X=-450.000 Y=-150.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 75]
+ |   |   |   |- Guid:721863814D9ED60803104FB8747E7974 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258574828 Label:wall66 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-550.000 Y=150.000 Z=1100.000), Max=(X=-450.000 Y=250.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 76]
+ |   |   |   |- Guid:7502842942711A829E2EA88A7DFA6ABA BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1556907290 Label:wall5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=450.000 Y=-250.000 Z=0.000), Max=(X=550.000 Y=-150.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 77]
+ |   |   |   |- Guid:773E8DF842B02496071E2CBA6F3C6AEE BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258584840 Label:wall78 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-550.000 Y=-150.000 Z=1100.000), Max=(X=-450.000 Y=-50.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 78]
+ |   |   |   |- Guid:77404C3A410D66B87F5C9C8231406DC4 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258571824 Label:wall62 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=150.000 Y=450.000 Z=1100.000), Max=(X=250.000 Y=550.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 79]
+ |   |   |   |- Guid:784B3E864CFBAA3348A241A622B29F49 BaseClass:/Game/Spiral_Seashell/BP_portal.BP_portal_C NativeClass:/Script/Engine.Actor Name:BP_portal_C_UAID_106FD9A61A0E97AC02_1895698707 Label:BP_portal SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=368.000 Y=350.000 Z=-15.000), Max=(X=432.000 Y=450.000 Z=85.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 80]
+ |   |   |   |- Guid:7902E6F3451E5BE491E5EC9CC6B58ADF BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1802107767 Label:wall113 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=350.000 Y=-250.000 Z=1100.000), Max=(X=450.000 Y=-150.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 81]
+ |   |   |   |- Guid:7BA6ECFE4DBC85A30A90BC95BB6A1302 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1604692297 Label:wall8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=450.000 Y=350.000 Z=0.000), Max=(X=550.000 Y=450.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 82]
+ |   |   |   |- Guid:7CBE05514972D551167234875F3975E0 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_2035471334 Label:wall46 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-350.000 Y=-450.000 Z=0.000), Max=(X=-250.000 Y=-350.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 83]
+ |   |   |   |- Guid:7E4F72AC4173C8C0F3E188AF3B29E532 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258572826 Label:wall64 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-350.000 Y=-550.000 Z=1100.000), Max=(X=-250.000 Y=-450.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 84]
+ |   |   |   |- Guid:81A6DF704FA881051C7074B6D5F8403F BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258575830 Label:wall68 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-550.000 Y=50.000 Z=1100.000), Max=(X=-450.000 Y=150.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 85]
+ |   |   |   |- Guid:8298D537486813D10C1CB5B5F5212C50 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1780467759 Label:wall105 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=250.000 Y=-50.000 Z=0.000), Max=(X=350.000 Y=50.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 86]
+ |   |   |   |- Guid:8A1A63324005D77D39AA1B9173C391BF BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258582838 Label:wall76 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=450.000 Y=-250.000 Z=1100.000), Max=(X=550.000 Y=-150.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 87]
+ |   |   |   |- Guid:8CEE466D42B635B57EEF898BE94FEBC3 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258580835 Label:wall73 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=450.000 Y=150.000 Z=1100.000), Max=(X=550.000 Y=250.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 88]
+ |   |   |   |- Guid:90C23A1A4F4DA8AF7E212093FB138C6C BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1840192773 Label:wall118 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=350.000 Y=50.000 Z=1200.000), Max=(X=450.000 Y=150.000 Z=1300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 89]
+ |   |   |   |- Guid:91B3D09E43638312E044008109CD11BC BaseClass:/Game/Light/BP_Fog.BP_Fog_C NativeClass:/Script/Engine.Actor Name:BP_Fog_C_UAID_106FD9A61A0EB2AC02_1589830596 Label:BP_Fog SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-200.000 Y=140.000 Z=1200.000), Max=(X=-200.000 Y=140.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 90]
+ |   |   |   |- Guid:9257FCFA46FB48B63775BAB5729DE896 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA1AC02_1633995521 Label:wall40 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2500.000 Y=-2500.000 Z=1000.000), Max=(X=2500.000 Y=2500.000 Z=1100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 91]
+ |   |   |   |- Guid:93D0B67E436F324E90CBFEA3BDFCC425 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258555809 Label:wall41 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-50.000 Y=-550.000 Z=1100.000), Max=(X=50.000 Y=-450.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 92]
+ |   |   |   |- Guid:959E2A9E40172B513E51B0AF567F1C0B BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258561813 Label:wall48 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=50.000 Y=-550.000 Z=1100.000), Max=(X=150.000 Y=-450.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 93]
+ |   |   |   |- Guid:96DBCF4F4E494908C2EF89BC8A045B86 BaseClass: NativeClass:/Script/Engine.CameraActor Name:CameraActor_UAID_106FD9A61A0E7AAC02_1777086599 Label:CameraActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=500.000), Max=(X=0.000 Y=0.000 Z=500.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 94]
+ |   |   |   |- Guid:9893068E4F05AEAED5C5A58B0D581878 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1802103764 Label:wall110 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=350.000 Y=50.000 Z=1100.000), Max=(X=450.000 Y=150.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 95]
+ |   |   |   |- Guid:98B825EC4197F60800C6D1A5A59D92EF BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA1AC02_1339232515 Label:wall51 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=350.000 Y=-50.000 Z=0.000), Max=(X=450.000 Y=50.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 96]
+ |   |   |   |- Guid:9A8C82B04CE57CEB2414FA96C32C188C BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258577832 Label:wall70 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-50.000 Y=450.000 Z=1100.000), Max=(X=50.000 Y=550.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 97]
+ |   |   |   |- Guid:9B9E33AA4782E68985A346AF4FF23308 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258572825 Label:wall63 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=350.000 Y=-550.000 Z=1100.000), Max=(X=450.000 Y=-450.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 98]
+ |   |   |   |- Guid:9FCAA32D482958DE4C38F5BC1CA2A52A BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258587844 Label:wall82 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-250.000 Y=450.000 Z=1100.000), Max=(X=-150.000 Y=550.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 99]
+ |   |   |   |- Guid:A5D7A6CB4A8207CE3BE04480F1907892 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258570823 Label:wall61 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=450.000 Y=50.000 Z=1100.000), Max=(X=550.000 Y=150.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [100]
+ |   |   |   |- Guid:A6DE7FB347145AA58A0A3F9B47F0CA9D BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1223774743 Label:wall93 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=350.000 Y=-250.000 Z=0.000), Max=(X=450.000 Y=-150.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [101]
+ |   |   |   |- Guid:A7790D6B417AF701BA8D58BC272A041F BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1680563748 Label:wall94 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-250.000 Y=-50.000 Z=1100.000), Max=(X=-150.000 Y=50.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [102]
+ |   |   |   |- Guid:AB1893A340AD67849052868F7DA5895C BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1631863305 Label:wall17 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-550.000 Y=-450.000 Z=0.000), Max=(X=-450.000 Y=-350.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [103]
+ |   |   |   |- Guid:B5637EDA4759741DD81DB6B57DD74D50 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA1AC02_1879815559 Label:wall85 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-450.000 Y=-250.000 Z=0.000), Max=(X=-350.000 Y=-150.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [104]
+ |   |   |   |- Guid:BB33F562477304660C0C3AAE5B57F276 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1653174309 Label:wall21 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-50.000 Y=450.000 Z=0.000), Max=(X=50.000 Y=550.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [105]
+ |   |   |   |- Guid:BC56313A461BDD6B8B3B8E9369D0E591 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1179977738 Label:wall88 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-250.000 Y=-50.000 Z=0.000), Max=(X=-150.000 Y=50.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [106]
+ |   |   |   |- Guid:BEF9913E4DD6E9539F63C89227B847A2 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1800348318 Label:wall30 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-50.000 Y=-550.000 Z=0.000), Max=(X=50.000 Y=-450.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [107]
+ |   |   |   |- Guid:C04AAD4345BDABD9E292DDB875B12BFD BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1421014287 Label:wall3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=450.000 Y=-150.000 Z=0.000), Max=(X=550.000 Y=-50.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [108]
+ |   |   |   |- Guid:C0A52B144846DE027DF07DB876442496 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1653181316 Label:wall28 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=250.000 Y=450.000 Z=0.000), Max=(X=350.000 Y=550.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [109]
+ |   |   |   |- Guid:C18408E849A0B0A36F694E934C54108E BaseClass:/Game/Spiral_Seashell/BP_portal.BP_portal_C NativeClass:/Script/Engine.Actor Name:BP_portal_C_UAID_106FD9A61A0E97AC02_1905676708 Label:BP_portal2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-332.000 Y=-50.000 Z=1185.000), Max=(X=-268.000 Y=50.000 Z=1285.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [110]
+ |   |   |   |- Guid:C233507A479264DBD4760B8067FDAA67 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA1AC02_1339235516 Label:wall52 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=250.000 Y=350.000 Z=0.000), Max=(X=350.000 Y=450.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [111]
+ |   |   |   |- Guid:C2BC744C48FCEE4D5C27B3A36F11BD7E BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1631865308 Label:wall20 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-550.000 Y=150.000 Z=0.000), Max=(X=-450.000 Y=250.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [112]
+ |   |   |   |- Guid:C2D25F2E404994A251F709B038DE9E3B BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1800353323 Label:wall35 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-450.000 Y=-550.000 Z=0.000), Max=(X=-350.000 Y=-450.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [113]
+ |   |   |   |- Guid:C36F691D44E5457FE017928A3AA8DAC3 BaseClass:/Game/Spiral_Seashell/BP_portal.BP_portal_C NativeClass:/Script/Engine.Actor Name:BP_portal_C_UAID_106FD9A61A0EA2AC02_1482822745 Label:BP_portal3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=368.000 Y=350.000 Z=1085.000), Max=(X=432.000 Y=450.000 Z=1185.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [114]
+ |   |   |   |- Guid:C47B47F4474379A9F899C4A57F782121 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1800351320 Label:wall32 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=50.000 Y=-550.000 Z=0.000), Max=(X=150.000 Y=-450.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [115]
+ |   |   |   |- Guid:C4EEF02C4B863F980A3B91A1220249E5 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1737352754 Label:wall100 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-250.000 Y=-150.000 Z=1100.000), Max=(X=-150.000 Y=-50.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [116]
+ |   |   |   |- Guid:C66C76DE429F47651F001A929F692E77 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1976615777 Label:wall122 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=350.000 Y=-50.000 Z=1100.000), Max=(X=450.000 Y=50.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [117]
+ |   |   |   |- Guid:C68F4110417B2F81631EC7BFAD9C24DA BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1726835752 Label:wall98 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-350.000 Y=150.000 Z=1100.000), Max=(X=-250.000 Y=250.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [118]
+ |   |   |   |- Guid:C8B9077240E2B45E1E4519841AD0D620 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1631862304 Label:wall16 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-550.000 Y=-350.000 Z=0.000), Max=(X=-450.000 Y=-250.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [119]
+ |   |   |   |- Guid:CAEB25484270F8F4797E1AA8817D2B1E BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258585842 Label:wall80 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=250.000 Y=-550.000 Z=1100.000), Max=(X=350.000 Y=-450.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [120]
+ |   |   |   |- Guid:CC14C3AB4F7143BED9DD1A8AF0FC3401 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1780469760 Label:wall106 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=250.000 Y=-350.000 Z=0.000), Max=(X=350.000 Y=-250.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [121]
+ |   |   |   |- Guid:CC1FFB844E4107E7CED3E3B1467127D3 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258567819 Label:wall57 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=450.000 Y=-350.000 Z=1100.000), Max=(X=550.000 Y=-250.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [122]
+ |   |   |   |- Guid:CF46F9B84DBAFF1913CFC190A40DEB6E BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1177142737 Label:wall87 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-250.000 Y=-150.000 Z=0.000), Max=(X=-150.000 Y=-50.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [123]
+ |   |   |   |- Guid:D6F6220D49B7695CEDA3A3AB935883B3 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258562814 Label:wall49 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=150.000 Y=-550.000 Z=1100.000), Max=(X=250.000 Y=-450.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [124]
+ |   |   |   |- Guid:D8C54CEC463AB40CA25649AF00548391 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1800350319 Label:wall31 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-150.000 Y=-550.000 Z=0.000), Max=(X=-50.000 Y=-450.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [125]
+ |   |   |   |- Guid:DBF1817744E53B5FB681E0B9AA8E8D6B BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258580836 Label:wall74 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-150.000 Y=-550.000 Z=1100.000), Max=(X=-50.000 Y=-450.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [126]
+ |   |   |   |- Guid:E156319146C11D886B9BCAB221EF3CBF BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1653182317 Label:wall29 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=150.000 Y=450.000 Z=0.000), Max=(X=250.000 Y=550.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [127]
+ |   |   |   |- Guid:E1B45B1B40CA220E0DB65489EFC23D9F BaseClass:/Game/Spiral_Seashell/BP_breakableWall.BP_breakableWall_C NativeClass:/Script/Engine.Actor Name:BP_breakableWall_C_UAID_106FD9A61A0E9CAC02_1723775587 Label:BP_breakableWall3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=900.000 Y=2001.835 Z=-43.394), Max=(X=1000.000 Y=2098.165 Z=82.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [128]
+ |   |   |   |- Guid:E630217C41A2E46180A644A08C508078 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_2031246333 Label:wall45 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-350.000 Y=-250.000 Z=0.000), Max=(X=-250.000 Y=-150.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [129]
+ |   |   |   |- Guid:E9A80FBB479F9081D5E1E9989E073DFB BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258576831 Label:wall69 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=450.000 Y=-450.000 Z=1100.000), Max=(X=550.000 Y=-350.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [130]
+ |   |   |   |- Guid:EDD1CF66478007CB11D9E4B3B2849C88 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0E7AAC02_1829565601 Label:wall2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=450.000 Y=-50.000 Z=0.000), Max=(X=550.000 Y=50.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [131]
+ |   |   |   |- Guid:F2AF81714A345529C4A753B8C9AD0646 BaseClass:/Game/Spiral_Seashell/BP_breakableWall.BP_breakableWall_C NativeClass:/Script/Engine.Actor Name:BP_breakableWall_C_UAID_106FD9A61A0EA1AC02_1426274519 Label:BP_breakableWall4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-450.000 Y=-48.165 Z=1056.606), Max=(X=-350.000 Y=48.165 Z=1182.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [132]
+ |   |   |   |- Guid:F5A29A1E4FB67AAB0B77C38B96655769 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1631865307 Label:wall19 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-550.000 Y=250.000 Z=0.000), Max=(X=-450.000 Y=350.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [133]
+ |   |   |   |- Guid:F6CD06B54DF9F88D149899B39AE0B0A8 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258568821 Label:wall59 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=50.000 Y=450.000 Z=1100.000), Max=(X=150.000 Y=550.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [134]
+ |   |   |   |- Guid:F70B6DAB4D61B13BC8976DA7A94BC20D BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1167850736 Label:wall86 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-250.000 Y=-250.000 Z=0.000), Max=(X=-150.000 Y=-150.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [135]
+ |   |   |   |- Guid:F90BCCF443BFB5EED8BBF4A87331C9DE BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1653179314 Label:wall26 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-450.000 Y=450.000 Z=0.000), Max=(X=-350.000 Y=550.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [136]
+ |   |   |   |- Guid:F987E4D04510E893EE296B8E6EBD2702 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA0AC02_1543047289 Label:wall4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=450.000 Y=50.000 Z=0.000), Max=(X=550.000 Y=150.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [137]
+ |   |   |   |- Guid:FBDC4A614ADBD32659BCED8310F2574D BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [138]
+ |   |   |   |- Guid:FD814C9F498854A08C03CBA4FCF1F919 BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258585841 Label:wall79 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=450.000 Y=250.000 Z=1100.000), Max=(X=550.000 Y=350.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [139]
+ |   |   |   |- Guid:FEAA1EE747D2ED805F053C8D4142B68C BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EA2AC02_1740606755 Label:wall101 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-250.000 Y=-250.000 Z=1100.000), Max=(X=-150.000 Y=-150.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [140]
+ |   |   |   |- Guid:FFEEF92A4A166D09ABD054A157E3B3BA BaseClass:/Game/Spiral_Seashell/BP_wall.BP_wall_C NativeClass:/Script/Engine.Actor Name:wall_C_UAID_106FD9A61A0EB4AC02_1258586843 Label:wall81 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-550.000 Y=-450.000 Z=1100.000), Max=(X=-450.000 Y=-350.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/levels/level3map
+----------------------------------------------------------------------------------------------------------------
+level3map - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of level3map Persistent Level
+ |- Always loaded Actor Count: 149 
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.AbstractNavData-Default
+ |- Actor Package: /Game/levels/level3map
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.BP_airbubble_C_UAID_106FD9A61A0EA2AC02_1244299744
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/3/VI/UPVLYPXVOON83Q7Q8B5N7L
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.BP_airbubble_C_UAID_106FD9A61A0EA2AC02_1823006772
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/3/BF/SYH5AUROVPHRPC1A0QJ5M7
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.BP_airbubble_C_UAID_106FD9A61A0EA3AC02_2108667959
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/B/76/W6I2O0UBZLOWS39JSIWAVG
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.BP_breakableWall_C_UAID_106FD9A61A0E95AC02_1677803353
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/9/TS/OW5P4DTM6TF9PO7FHIQMFM
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.BP_breakableWall_C_UAID_106FD9A61A0E9CAC02_1723775587
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/0/1V/4HTS3FAMMNPMXNDMT478BA
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.BP_breakableWall_C_UAID_106FD9A61A0EA1AC02_1426274519
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/C/VQ/UFR96NL7SB7P921J4THFUT
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.BP_breakableWall_C_UAID_106FD9A61A0EA2AC02_1611373746
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/C/RL/P8LMCZQD87WYV5TQQ9DRCE
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.BP_breakableWall_C_UAID_106FD9A61A0EA3AC02_1928812957
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/9/H7/W8MHM4WUDJQVGSL381KH7G
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.BP_Fog_C_UAID_106FD9A61A0EB2AC02_1589830596
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/8/OC/PBYMX1TVAL8NHLQ45T33T7
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.BP_Light_C_UAID_106FD9A61A0EB2AC02_1592548604
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/A/59/CS10XNWJKKV1OJSCA52KY1
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.BP_Light_C_UAID_106FD9A61A0EB2AC02_1660506605
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/A/RA/E4Y2LO564NFF0FGPWS0K9S
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.BP_portal_C_UAID_106FD9A61A0E97AC02_1895698707
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/B/TN/6TGJLEU9D4SRBB6Y60C0GM
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.BP_portal_C_UAID_106FD9A61A0E97AC02_1905676708
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/A/PE/PTK5TCFFY6BDCIE4QRC67M
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.BP_portal_C_UAID_106FD9A61A0EA2AC02_1482822745
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/E/F5/RHSA62LTUFLP3Z4O56I2OH
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.BP_portal_C_UAID_106FD9A61A0EA2AC02_1644501747
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/4/KE/DQSVDTW1A7XM9NIVL1EWAK
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.Brush_0
+ |- Actor Package: /Game/levels/level3map
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.CameraActor_UAID_106FD9A61A0E7AAC02_1777086599
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/9/XR/9KF484N29J0RIN0K5VP073
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/levels/level3map
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763_GEN_VARIABLE_ExponentialHeightFog_CAT_UAID_106FD9A61A0EB2AC02_1589831597
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/8/OC/PBYMX1TVAL8NHLQ45T33T7
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/levels/level3map
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.level2map1_C_1
+ |- Actor Package: /Game/levels/level3map
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.PlayerStart_0
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/2/BZ/G4ORX142PTXATMVXXE8WCI
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.PostProcessVolume_UAID_106FD9A61A0EB2AC02_1706593606
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/3/UU/M3KIM70TGXWTY766CPHGNY
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.SkyLight_UAID_106FD9A61A0EB2AC02_1768217607
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/A/DU/ITS0RKIO6FM26YHPUQVJ54
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0E7AAC02_1829565601
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/1/9C/K25NMWS75CZUXR92QWUPYM
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0E9EAC02_1817865942
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/8/5F/8I5YF895KG0GSGN1DIR5I5
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA0AC02_1421014287
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/3/NO/WJPLN8K2GZYKN8WCPWOXGY
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA0AC02_1543047289
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/6/V2/4TP1XHU7J40FZH581W3TNE
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA0AC02_1556907290
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/B/R3/PLWLTQG73CF1E9WIKTYGVA
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA0AC02_1556909291
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/4/YR/0DUGT3NF9S6ZFGRCVNWUCD
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA0AC02_1566468292
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/9/0Z/BIMTKXHG9A0X74QSUJYBRE
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA0AC02_1604692297
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/D/6S/77K1RKMUA65Z0BU3I1G7FJ
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA0AC02_1604694298
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/D/OB/9AWJUVLGDV9L2PK29UVKGI
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA0AC02_1604695299
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/A/SY/JYGKGENWZ2W7UVSXRO67NM
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA0AC02_1631860301
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/D/HG/EUGOF4L8RVB4TO1DNE0SLJ
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA0AC02_1631860302
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/8/YO/X5WM817YFSEZSUGYE2KR1B
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA0AC02_1631861303
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/3/U7/ZRBR2ZMQMS2F8LHBKJ36T6
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA0AC02_1631862304
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/9/R2/VWUL9SWHR2V8ZHAGFCT3ZG
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA0AC02_1631863305
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/E/RZ/QFK5HW9R4P8QWG6LVT1D3O
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA0AC02_1631864306
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/9/N1/RC7YKJBIDEGZRECAQCITP3
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA0AC02_1631865307
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/1/2S/HBSR6S5C5QRW2R6W0FGRLN
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA0AC02_1631865308
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/8/0W/X07GHBKUQZ2X46ZLHNTY0T
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA0AC02_1653174309
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/9/6U/V5LRCYORDH7V0UKL9XV92U
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA0AC02_1653175310
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/6/MN/M7OPFVGTMOO2RXZX9YIAXO
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA0AC02_1653176311
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/5/ZL/LARQP0N9IBDQVOQZ8CDDWC
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA0AC02_1653177312
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/F/3P/TJR8V8SLN71120Q1OJ3H8O
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA0AC02_1653178313
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/B/1T/EW2MCZMJ9ENML5W9V8TYFD
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA0AC02_1653179314
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/1/XZ/7XAYECX79EMA17KGX71UYC
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA0AC02_1653180315
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/8/2U/K2DQB9VG2BVRCDZ88ZPRYG
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA0AC02_1653181316
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/2/7J/5EOQLD08WCG5OYLKFPJSYS
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA0AC02_1653182317
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/7/A4/6BJ9EGRSB7NGE31VY6C9ZS
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA0AC02_1800348318
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/0/F1/L2J0U1QQ3SIWAO149D2489
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA0AC02_1800350319
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/A/XZ/D5GXDG75HC5O8WV6GOQ7SK
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA0AC02_1800351320
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/2/3A/43ZYGBUVOYUC8V46YCE1NF
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA0AC02_1800351321
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/4/O4/DQWEJJ7QLPF8P09XB1BT64
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA0AC02_1800352322
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/7/JZ/IJ461DR3IC6YWAVQ933NIJ
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA0AC02_1800353323
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/5/H8/YR2R3ANR4PBZGYB3JRE5RK
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA0AC02_1800354324
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/7/AF/TV1MSXP92WJ4SS960JV716
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA0AC02_1800355325
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/D/OO/EIOYZCQIKEWBQK31YXGLB5
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA0AC02_1800356326
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/2/3N/W2NJ55A7TE8ODQ447CXCKH
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA0AC02_1986399330
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/8/BS/3JUF6785DNS5M941V00DWK
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA0AC02_2012984331
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/E/6N/EG2MMHHTNMDUTMCFJ8AMSL
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA0AC02_2031246333
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/D/R0/IRT8M4PMNT3TIAZ8BYHT29
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA0AC02_2035471334
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/E/KF/D0UY436YTS229V19XPUR0O
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA1AC02_1188980514
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/7/VT/2JRDYPVJCPNZFZIBJL93VF
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA1AC02_1339232515
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/6/67/2SFSPTWBO2KU3SE0RCOKQC
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA1AC02_1339235516
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/3/U5/NJRL3VPELDKY6Z1A8TA1UY
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA1AC02_1565274520
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/7/KK/OFQF94EZV2DSPK3AFM392I
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA1AC02_1633995521
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/9/SJ/WMRXGSATLMWJMI0EQPHS3B
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA1AC02_1879815559
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/8/A4/UQDRGQQW34IO2VEC6A6913
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA2AC02_1167850736
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/4/67/BC2IVJYETDRJKMBZCN5MZI
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA2AC02_1177142737
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/C/RH/M876179MICLYDL3DXVA5PV
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA2AC02_1179977738
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/8/V8/JSXN88PQDCQQB12ZUX6TRZ
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA2AC02_1186040739
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/2/PS/OFBS8NU22SJ5PDZUWM4PPD
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA2AC02_1188975740
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/4/R2/OXPUAU0PJDICA4EN975WUA
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA2AC02_1193365741
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/C/ZY/UJKCVNUFXLGWMYDGD2ZBYD
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA2AC02_1196990742
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/A/FK/FIBUCC05ZIZ79EUJ4CA4Z7
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA2AC02_1223774743
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/C/UF/4CTTSP3NPUFW3Q4ZKDD9CV
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA2AC02_1680563748
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/A/9S/7952AYOXNEB6V38JBIBBG1
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA2AC02_1700254749
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/9/AI/21ZGMCEOHI7KESTUOQ80GO
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA2AC02_1715125750
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/A/QS/0XP9CXFSLC5DREG0PCZYMY
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA2AC02_1720883751
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/0/0Q/3EQRULHITODYRXUCYARSJY
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA2AC02_1726835752
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/A/UX/IFFD7ZSPCKD2KS0EPZ8YOP
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA2AC02_1730451753
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/B/9H/QEJFJDHK8HVGMZ600K6N97
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA2AC02_1737352754
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/3/Q0/D5IZ4HWDDDJZYSA51R3FAM
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA2AC02_1740606755
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/A/VY/8U2W13GJ2Y49HQ3YER38V0
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA2AC02_1744069756
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/D/VO/B70GX86N5B2PCEAVRVJG2S
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA2AC02_1747169757
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/D/ZA/ZC9VPGGR41PIHPFJGUXCRV
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA2AC02_1759831758
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/E/SE/0Y3K4TIRN22FZ0EWC8THYA
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA2AC02_1780467759
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/2/23/KAV2B5A0XO2VG9GX546JA2
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA2AC02_1780469760
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/4/88/Q6U3XJ3P0H3SMHMR6L44FW
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA2AC02_1780470761
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/B/JC/K30PF6P5AI8LBWJUV7QYCZ
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA2AC02_1780472762
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/D/7R/DBNS1EJJDYAHI0DKRK3LZ2
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA2AC02_1780473763
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/6/A7/EO0UU04RTYV3MSVMBH34PA
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA2AC02_1802103764
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/7/PM/77T2TTWBKWO40MUJPB6QP0
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA2AC02_1802105765
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/2/4O/0R2QXGMY0HER1C2ES5REVC
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA2AC02_1802106766
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/8/U3/V70DDN1WM6VJJH3IGCIRYO
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA2AC02_1802107767
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/7/YP/MSNYRQ1X4AA7PZEUUAKIBE
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA2AC02_1802109768
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/B/0Y/FD8DVW65I8SCZE5RGKMKAY
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA2AC02_1802110769
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/4/TB/7Q3B1WHFROADRY12V8I867
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA2AC02_1802111770
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/7/YT/55YMY3PXN801FFKTHAUAC4
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA2AC02_1802112771
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/4/ZX/UN0QK1JVEL37BHBK77AIAY
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA2AC02_1840192773
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/0/4Z/YOUXMKMXSIM1XDGPHA9I6X
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA2AC02_1840194774
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/F/4B/84X78IZ40C5SAXHJ198K04
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA2AC02_1976615777
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/6/R6/SJVDC60F5MJZZEDSH9ES22
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA2AC02_1976616778
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/D/WG/G8Z8VJNJCSEXPJOI61WICA
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA2AC02_1987430779
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/2/P2/F6MZYHNCT6UL0SS7UX5SUL
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA2AC02_1987432780
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/7/5Z/FXDS00DRZL8M4A8DA9IYFL
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EA3AC02_2077741958
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/1/F3/KA0M44VEC363T1U33S8UQW
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EB4AC02_1258555809
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/2/PA/CL3LWJIE53N7FZ5XV62ZGP
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EB4AC02_1258558810
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/4/F8/54ADJMJD2TUP76Y5UOC59F
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EB4AC02_1258559811
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/A/BX/X0JPQG94U9CWF8K7C0XHF7
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EB4AC02_1258560812
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/7/61/24MXQDSRO91C9WMWMNM3XY
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EB4AC02_1258561813
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/3/49/7C3WMIHYBO2AOSBFW5O9F6
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EB4AC02_1258562814
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/0/53/E6EWOC3UQZCAH9TYQA2XSA
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EB4AC02_1258563815
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/A/RI/KYC7EZ433JEJY1H1F0N70K
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EB4AC02_1258564816
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/4/BE/UWA8T9VW5FVARLE8APZW2F
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EB4AC02_1258565817
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/A/Q2/MS466C20AKPG9TFN27DICS
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EB4AC02_1258566818
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/7/P0/143V37MVXVY2MRJFN5BU3U
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EB4AC02_1258567819
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/A/KC/RY4SMU4W5G6EC32WRKJ4N7
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EB4AC02_1258567820
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/E/PH/MSZ40DY2SVIC1Q4N43GOF3
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EB4AC02_1258568821
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/B/CG/Z9MKY4X9YFFD5IQD283VDY
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EB4AC02_1258569822
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/8/X5/027J9RYX9MWQEHHUDDY3JR
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EB4AC02_1258570823
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/A/BB/RFW0XHT8GXN750SBIAJTYU
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EB4AC02_1258571824
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/8/J8/VM1I48Y2BUK4582PC2KNAL
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EB4AC02_1258572825
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/0/4T/DNB87FTS0ONDEOT3LL1MLO
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EB4AC02_1258572826
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/C/ZN/BSKFU521LTIKWWHG0SZ36I
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EB4AC02_1258573827
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/5/3K/2YFF6UETK2INEV8688H0RO
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EB4AC02_1258574828
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/4/OY/XK7JG3XRSTF56VUVTE4QC6
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EB4AC02_1258575829
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/6/D9/EFXJCM1UU490MYJR7PNOTA
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EB4AC02_1258575830
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/1/D9/25MW9ZOW7TBML0328CWQXZ
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EB4AC02_1258576831
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/B/4E/DU2746233J8Q5N1P11ZLZT
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EB4AC02_1258577832
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/2/D2/LP10U398VAHZV51SZ0XBV3
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EB4AC02_1258578833
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/4/QR/45HHUBF4IZVHJYALQKRP6N
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EB4AC02_1258579834
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/7/QV/VYO474K4G92BFK9A817LAE
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EB4AC02_1258580835
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/9/O8/0D3QTE2SOSXW1ULKJCWOHH
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EB4AC02_1258580836
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/B/WQ/ZIM56TRZ0T23I8ELW5QY8N
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EB4AC02_1258581837
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/1/OE/DGNQ5MG4D94B7K09902Z12
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EB4AC02_1258582838
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/5/2V/J9YBL7O00IAV1KKTY9B3EW
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EB4AC02_1258583839
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/2/GZ/VA8YBQ7E6600EPCFIT8WS6
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EB4AC02_1258584840
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/1/TD/T0FGBB49HG7X88MNHGA5HS
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EB4AC02_1258585841
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/2/GH/T0IH5XKQDBO0F0F7BDLFYR
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EB4AC02_1258585842
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/A/FM/PAZCN50WJKAQ0K9HG2FHCU
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EB4AC02_1258586843
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/B/6W/7Q8ZQISSOE3824F97I3BDJ
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.wall_C_UAID_106FD9A61A0EB4AC02_1258587844
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/C/CJ/EQLEIFRR7HFDXHE7PTOCCD
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/C/W1/J5A9TBADUX9242AH9MVYF4
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.WorldInfo_0
+ |- Actor Package: /Game/levels/level3map
+ |- Actor Path: /Game/levels/level3map.level3map:PersistentLevel.WorldPartitionMiniMap_0
+ |- Actor Package: /Game/__ExternalActors__/levels/level3map/0/P5/NQPUEBNEI94U1GXSBXV77P
+
+----------------------------------------------------------------------------------------------------------------
+level3map - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+
